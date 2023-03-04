@@ -29,7 +29,7 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="absolute justify-between items-center w-full h-20 px-4 text-white bg-black">
+    <div className="relative justify-between items-center w-full h-20 px-4 text-white bg-black">
       <div>
         <h1 className="text-5xl ml-2">Ansh.Koshti</h1>
       </div>
