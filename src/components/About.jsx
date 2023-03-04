@@ -8,27 +8,29 @@ const About = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-semibold inline border-b-4 border-gray-500">
+          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
           </p>
         </div>
+
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos,
-          error alias quibusdam consectetur odio voluptate quasi ea consequatur
-          laborum ipsa labore tenetur quo optio autem eum, mollitia quod nam.
-          Aliquam nostrum illum unde explicabo fugit vel cupiditate saepe
-          repudiandae. Officiis reprehenderit impedit corporis ipsam tempora
-          atque, nobis quod sed consectetur!
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
+          deserunt illum mollitia officiis qui exercitationem perferendis neque
+          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
+          iste, totam fugiat recusandae rerum laborum perferendis molestiae
+          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
+          ab mollitia voluptatibus, a nostrum eveniet laborum!
         </p>
+
         <br />
+
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          aspernatur veniam modi quam, accusantium blanditiis culpa incidunt
-          voluptatem assumenda omnis. Exercitationem veritatis harum rem quasi,
-          fugiat a modi eius adipisci sequi! Harum necessitatibus, eligendi
-          repudiandae quod doloremque dolores expedita totam. Sequi repellat
-          voluptatum consectetur, aspernatur doloremque enim illum! Aliquam,
-          praesentium.
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
+          pariatur, vel similique sint, nobis aspernatur ut praesentium
+          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
+          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
+          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
+          magni quo! Eum cupiditate debitis labore.
         </p>
       </div>
     </div>

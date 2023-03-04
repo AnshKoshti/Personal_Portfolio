@@ -8,16 +8,17 @@ const Contact = () => {
     >
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
         <div className="pb-8">
-          <p className=" text-4xl font-semibold inline border-b-4 border-gray-500">
-            Contact
+          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+            Cotact
           </p>
           <p className="py-6">Submit the form below to get in touch with me</p>
         </div>
-        <div className="flex justify-center items-center">
+
+        <div className=" flex justify-center items-center">
           <form
             action="https://getform.io/f/6266b7c1-229a-4ea4-8ad8-58ac8240a444"
             method="POST"
-            className="flex flex-col w-full md:w-1/2"
+            className=" flex flex-col w-full md:w-1/2"
           >
             <input
               type="text"
@@ -33,7 +34,7 @@ const Contact = () => {
             />
             <textarea
               name="message"
-              placeholder="Enter your Message"
+              placeholder="Enter your message"
               rows="10"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             ></textarea>
